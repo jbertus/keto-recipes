@@ -1,0 +1,10 @@
+
+> keto-contractor-app@0.1.0 dev
+> vite --host :: --port 3000 --port 3002
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m793[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3002[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.0.0.12:[1m3002[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m

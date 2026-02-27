@@ -1,0 +1,21 @@
+## Pages
+- [| Keto Contractor](/recipebuilder): No description available
+- [| Keto Contractor](/recipedetails): No description available
+- [Admin Inbox | Keto Contractor](/adminmessages): No description available
+- [Admin Users (Deprecated) | Keto Contractor](/adminusers): No description available
+- [AI Recipe Engine | Keto Contractor](/foundry): No description available
+- [Analytics & Reports | Keto Contractor](/reports): No description available
+- [Clients (Removed) | Keto Contractor](/clients): No description available
+- [Confirm Email | Keto Contractor](/emailconfirmation): No description available
+- [Database Cleanup | Admin](/databasecleanup): No description available
+- [Favorites | Keto Contractor](/favorites): View your saved favorite recipes.
+- [Login - Keto Contractor](/login): No description available
+- [Meal Prep Timeline | Keto Contractor](/mealpreptimeline): View estimated meal preparation times for the week.
+- [Nutrition Dashboard | Keto Contractor](/nutritiondashboard): Visualize your daily macro intake against your targets.
+- [Planner | Keto Contractor](/planner): No description available
+- [Preferences | Keto Contractor](/preferences): No description available
+- [Progress & Stats | Keto Contractor](/progresstracker): No description available
+- [Recipe Library | Keto Contractor](/recipelibrary): No description available
+- [Shopping List - Keto Contractor](/shoppinglist): No description available
+- [Sign Up | Keto Contractor](/signup): No description available
+- [System Diagnostics | Keto Contractor](/diagnostics): No description available
